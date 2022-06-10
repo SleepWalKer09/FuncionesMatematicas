@@ -1,0 +1,15 @@
+
+Tipos de variables
+1. Cualitativas (categoricas)
+   Nominales(a,b,c,d) ->Clasificar
+   Ordinales(I,II,III,IV) -> Jerarquia
+   Binaria(1,0,frio,caliente) ->Escoger
+2. Cuantitativas(numericas)
+    discretas(1,2,3,4) -> contar
+    continuas(1,5,9,3) -> medir
+
+Dominio de una función
+    Son los valores que toma x y que están definidos en la función f(x)
+
+Rango de una función
+    Son los valores que puede regresar una función
